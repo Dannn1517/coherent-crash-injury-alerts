@@ -1,0 +1,19 @@
+{
+ "val": {
+  "raw_zitd_nll": 1.26537,
+  "point_mean": 0.032253
+ },
+ "test": {
+  "raw_zitd_nll": 1.26502,
+  "point_mean": 0.032206,
+  "recal_dNLL_vs_own": null,
+  "recal_NLL": 0.08329,
+  "recal_AUC": 0.9009,
+  "zi_AUC": 0.7113,
+  "recal_s": 0.73952,
+  "recal_c": 1e-05,
+  "alpha": 0.39134,
+  "params": 596272,
+  "epochs": 0
+ }
+}

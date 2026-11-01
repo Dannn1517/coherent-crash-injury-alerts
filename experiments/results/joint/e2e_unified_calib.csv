@@ -1,0 +1,7 @@
+city,channel,selected_family,test_ECE_M0,test_ECE_selected
+nyc,compound_crash,M3_mupow_a,0.00154,0.00145
+nyc,zi_injury,M3_mupow_a,,
+chi,compound_crash,M3_mupow_a,0.00089,0.00298
+chi,zi_injury,M3_mupow_a,,
+taichung,compound_crash,M3_mupow_a,0.00188,0.00054
+taichung,zi_injury,M3_mupow_a,,

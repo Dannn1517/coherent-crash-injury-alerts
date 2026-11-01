@@ -1,0 +1,5 @@
+baseline,arm,window,alpha,NLL,floor_NLL,dNLL_pct,AUC,Recall20,MAE,win_sig,win_sig_worse,day_sig,day_sig_worse,recal
+igstgnn_native,raw,val2024,0.0001,1.00098,0.08537,1072.505,0.50172,0.0508,0.97907,False,True,False,True,
+igstgnn_native,recal,val2024,1.00257,0.1131,0.08537,32.475,0.50172,0.0508,0.04656,False,True,False,True,"s=0.02267,c=0.00114"
+igstgnn_native,raw,test2025,0.0001,1.00096,0.0854,1072.09,0.50306,0.0517,0.97915,False,True,False,True,
+igstgnn_native,recal,test2025,1.00257,0.11255,0.0854,31.79,0.50306,0.0517,0.04642,False,True,False,True,"s=0.02267,c=0.00114"

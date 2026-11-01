@@ -1,0 +1,17 @@
+{
+ "arm": "native_offbin",
+ "params": 34443572,
+ "seq": 16,
+ "rebin": false,
+ "native": true,
+ "best_val": 0.0006569811831349912,
+ "epochs": 54,
+ "secs": 3337,
+ "count_scale": 7.0,
+ "smoke": false,
+ "starts": {
+  "train": 8533,
+  "val": 2921,
+  "test": 2913
+ }
+}

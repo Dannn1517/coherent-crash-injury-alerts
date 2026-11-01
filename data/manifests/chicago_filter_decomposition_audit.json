@@ -1,0 +1,24 @@
+{
+  "city": "chicago",
+  "period": "2021-2024",
+  "our_ingrid_geocoded": 435992,
+  "export_road_eligible": 403252,
+  "net_excess": 32740,
+  "filter_hits": {
+    "snap_gt_75m": 3254,
+    "ineligible_link_type": 13288,
+    "parking_alley_driveway_oj": 16201
+  },
+  "sum_hits": 32743,
+  "overlap_records": 3,
+  "non_geocoded_drops": {
+    "nyc": 32829,
+    "chicago": 5151,
+    "taichung": 0
+  },
+  "out_of_bbox_drops": {
+    "nyc": 5493,
+    "chicago": 0,
+    "taichung": 0
+  }
+}

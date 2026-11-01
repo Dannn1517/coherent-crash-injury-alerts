@@ -1,0 +1,8 @@
+numpy==2.1.0
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.6.1
+torch==2.4.1
+pyarrow==22.0.0
+pyproj==3.7.1
+matplotlib==3.10.6

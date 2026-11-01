@@ -1,0 +1,13 @@
+arm,window,dNLL_pct,win_ci,win_sig,day_ci,day_sig,day_sig_worse
+settf_zinb_g10,val2024,-1.048,"-0.002481,-0.002269",True,"-0.002564,-0.002217",True,False
+settf_zinb_g10,test2025,-1.051,"-0.002496,-0.002289",True,"-0.002612,-0.002214",True,False
+settf_zinb_g10_inj,val2024,-3.859,"-0.006261,-0.005948",True,"-0.006356,-0.005805",True,False
+settf_zinb_g10_inj,test2025,-3.867,"-0.006257,-0.005916",True,"-0.006412,-0.005812",True,False
+settf_zinb_g40,val2024,-6.633,"-0.002004,-0.001976",True,"-0.002019,-0.001966",True,False
+settf_zinb_g40,test2025,-6.557,"-0.001983,-0.001955",True,"-0.001996,-0.001945",True,False
+settf_zinb_g40_inj,val2024,-11.153,"-0.002049,-0.002004",True,"-0.002064,-0.001992",True,False
+settf_zinb_g40_inj,test2025,-10.901,"-0.001995,-0.001952",True,"-0.002010,-0.001935",True,False
+settf_zinb_chi,val2024,-2.437,"-0.002647,-0.002556",True,"-0.002684,-0.002525",True,False
+settf_zinb_chi,test2025,-2.463,"-0.002622,-0.002539",True,"-0.002655,-0.002508",True,False
+settf_zinb_chi_inj,val2024,-8.185,"-0.002768,-0.002664",True,"-0.002798,-0.002631",True,False
+settf_zinb_chi_inj,test2025,-8.12,"-0.002689,-0.002592",True,"-0.002715,-0.002553",True,False

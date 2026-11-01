@@ -1,0 +1,6 @@
+metric,value,note
+top20_overlap_crash_vs_inj,0.8676,"test2025 抽样5004窗×horizon, k=20"
+cell_mean_pocc_corr,0.9949,400细胞 crash vs inj 平均p_occ
+severity_rate_pred_obs_corr,0.6046,"细胞级 inj/crash 率, n=176 cells ≥30 crashes"
+top5_obs_severity_cells,"[(138, 0.955, 0.679), (132, 0.834, 0.704), (355, 0.833, 0.633), (155, 0.831, 0.705), (335, 0.827, 0.608)]","(cell,obs_rate,pred_rate) crashes≥100"
+top5_pred_severity_cells,"[(135, 3.444, 6.0, 4), (24, 1.112, 1.0, 4), (379, 1.071, 0.0, 0), (308, 1.069, 0.0, 0), (309, 1.068, 0.0, 0)]","(cell,pred,obs,crashes) 小分母失真登记"

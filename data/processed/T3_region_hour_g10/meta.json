@@ -1,0 +1,8 @@
+{
+  "task": "T3_region_hour_g10",
+  "grid": 10,
+  "derivation": "Exact 2x2 block sum of the 20x20 labels (sum-preserving check passed)",
+  "source": "New York City T3 grid-hour labels",
+  "n_regions": 100,
+  "built_at": "2026-11-03T08:20:07.093062"
+}

@@ -1,0 +1,5 @@
+baseline,arm,window,alpha,NLL,floor_NLL,dNLL_pct,AUC,Recall20,MAE,win_sig,win_sig_worse,day_sig,day_sig_worse,recal
+gsnet_strict_rebin,raw,val2024,0.0001,0.13022,0.08537,52.537,0.88337,0.3208,0.10739,False,True,False,True,
+gsnet_strict_rebin,recal,val2024,0.31318,0.08865,0.08537,3.837,0.88337,0.3208,0.04382,False,True,False,True,"s=0.23835,c=0.00009"
+gsnet_strict_rebin,raw,test2025,0.0001,0.13023,0.0854,52.49,0.88061,0.3128,0.10727,False,True,False,True,
+gsnet_strict_rebin,recal,test2025,0.31318,0.0886,0.0854,3.752,0.88061,0.3128,0.04368,False,True,False,True,"s=0.23835,c=0.00009"

@@ -1,0 +1,45 @@
+{
+  "task": "T3_region_hour_taichung",
+  "unit": "20x20 UTM 51N grid region x hour (2021-2024)",
+  "source": "Police Bureau, Taichung City Government, road traffic accident data",
+  "semantic_note": "A1/A2 covers injury/fatal crashes only (A3 property-damage records are not public). The crash channel therefore approximates injury crashes; the injury/crash nonzero rate ratio is about 1.0, unlike New York City (0.45) and Chicago (0.18).",
+  "n_regions": 400,
+  "n_hours": 35064,
+  "splits": {
+    "train": "2021-2022",
+    "val": "2023",
+    "test": "2024"
+  },
+  "stats": {
+    "rows": 229425,
+    "bad_date": 0,
+    "out_range": 0,
+    "no_geo": 0,
+    "out_bbox": 0,
+    "kept": 229425,
+    "injured_sum": 304200.0,
+    "killed_sum": 698.0
+  },
+  "sparsity": {
+    "nz_crash_test": 0.01524,
+    "nz_inj_test": 0.01522,
+    "nz_killed_test": 3.9e-05,
+    "base_rate_ratio_test": 0.9985,
+    "g_crash_cellhour": 0.020451
+  },
+  "bbox": [
+    239460.77739213812,
+    345842.0678908945,
+    2652421.630535787,
+    2707893.2724373797
+  ],
+  "crs": "EPSG:32651",
+  "built_at": "2026-11-05T07:42:25.478488",
+  "qa_against_shared_daily_labels": {
+    "common_days": 1460,
+    "pearson_r": 0.9999999999999999,
+    "spearman_r": 1.0,
+    "ratio_t3_over_shared": 1.0,
+    "cellwise_r": 0.9989656503447625
+  }
+}

@@ -1,0 +1,17 @@
+{
+ "arm": "native_rebin",
+ "params": 34443572,
+ "seq": 16,
+ "rebin": true,
+ "native": true,
+ "best_val": 0.0003845744070966485,
+ "epochs": 31,
+ "secs": 1926,
+ "count_scale": 7.0,
+ "smoke": false,
+ "starts": {
+  "train": 8533,
+  "val": 2921,
+  "test": 2913
+ }
+}

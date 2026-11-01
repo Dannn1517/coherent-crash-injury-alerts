@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.log
+
+# Regenerable per-cell prediction arrays and checkpoints are not part of the release.
+experiments/results/**/mu_*.npz
+experiments/results/**/ckpt_*.pt

@@ -1,0 +1,17 @@
+{
+ "arm": "strict_rebin",
+ "params": 34443308,
+ "seq": 12,
+ "rebin": true,
+ "native": false,
+ "best_val": 0.0003842881538414234,
+ "epochs": 32,
+ "secs": 1544,
+ "count_scale": 7.0,
+ "smoke": false,
+ "starts": {
+  "train": 8753,
+  "val": 2921,
+  "test": 2913
+ }
+}
